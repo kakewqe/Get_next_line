@@ -1,6 +1,7 @@
 # 📄 get_next_line
 
 ## 🇬🇧 English
+Project completed on May 30, 2023, at 12:54 AM.
 
 The goal of this project is to read a line from a file descriptor, one line at a time.
 
@@ -89,6 +90,8 @@ return (0);
 # 📄 get_next_line
 
 ## 🇫🇷 Français
+
+Projet terminé le 30 mai 2023 à 00:54.
 
 Le but de ce projet est de lire une ligne depuis un descripteur de fichier, une ligne à la fois.
 
